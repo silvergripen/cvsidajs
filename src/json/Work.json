@@ -1,0 +1,24 @@
+ [   
+        {
+            "id": 1,
+            "title": "Konstruktor",
+            "company": "Söderhamn Eriksson",
+            "datestart": "2015-06-15",
+            "dateend": "2015-07-03"
+        },
+        {
+            "id": 2,
+            "title": "Städare/Coach",
+            "company": "Bollnäs Hälsostudio",
+            "datestart": "2015-10-01",
+            "dateend": "2015-12-18"
+        },
+        {
+            "id": 3,
+            "title": "Driftsupport",
+            "company": "Fortum",
+            "datestart": "2017-05-01",
+            "dateend": "2020-10-31"
+        }
+    ]
+    

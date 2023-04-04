@@ -1,0 +1,23 @@
+.container_design {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  max-width: 1200px; /* Set a maximum width to limit the size of each card */
+  margin: 30px auto; /* Center the container horizontally and add some margin */
+}
+
+.card_design {
+  min-height: fit-content;
+  height: 20vh;
+  width: 100%; /* Set the width of the card to 100% */
+  max-width: 500px; /* Set a maximum width for each card */
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.footer_design {
+    bottom: 0;
+    position: fixed;
+}

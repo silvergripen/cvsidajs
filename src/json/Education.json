@@ -1,0 +1,16 @@
+[
+       {
+        "id": 1,
+        "school":"Hälsingegymnasiet",
+        "education": "Teknik och teknisk industri",
+        "datestart": "2012",
+        "eateend": "2015"
+       },
+       {
+        "id": 2,
+        "school":"Edugrade",
+        "education": ".Net systemutvecklare med ai kompetens",
+        "datestart": "2022",
+        "dateend": "2024"
+       }
+]

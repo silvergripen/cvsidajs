@@ -1,0 +1,13 @@
+.container-main{
+    padding: 3% 20%;
+}
+.container-half{
+    width: 45%;
+    display: inline-block;
+}
+.padding-top{
+    padding-top: 100px;
+}
+.margin-left{
+    margin-left: 100px;
+}

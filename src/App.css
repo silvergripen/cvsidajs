@@ -1,7 +1,9 @@
 .App {
   text-align: center;
 }
-
+img{
+  max-width: 100%;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +37,24 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.layout{
+  width: 100%;
+  height: 100vh;
+  display: grid;
+}
+.background-white{
+  background-color: white;
+}
+.background-pviolet{
+  background-color: palevioletred;
+  
+}
+.text-pviolet{
+  color: palevioletred;
+}
+
+.button-position{
+  float: left;
 }
